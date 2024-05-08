@@ -11,4 +11,5 @@ Solution:
 
 Scope:
 - Proof of concept project
-- Recommendations are populated for Chicago, CA only (As the users were curated from Chicago for the training model)
+- Recommendations are populated for Toronto area (As the users were curated from Toronto for the training model)
+  > Data was truncated from the Yelp Dataset for the project timeline
